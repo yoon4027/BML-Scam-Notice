@@ -1,4 +1,4 @@
-#Bank of Maldives scam details
+# Bank of Maldives scam details
 
 
 ## Domain
